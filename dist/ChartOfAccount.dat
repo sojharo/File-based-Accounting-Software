@@ -1,0 +1,18 @@
+ASSETS
+Cash//101//debit
+Office Equipment//102//debit
+Supplies//103//debit
+Account Receivables//104//debit
+LIABILITY
+Account Payable//201//credit
+Notes Payable//202//credit
+OWNERSEQUITY
+Capital//301//credit
+Drawings//302//debit
+REVENUES
+Service Revenue//401//credit
+EXPENSES
+Rent Expense//501//debit
+Advertising Expense//502//debit
+Supplies Expense//503//debit
+Salary Expense//504//debit
